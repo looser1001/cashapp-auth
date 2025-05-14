@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/", "dest": "https://13.61.24.104/cashapp-invite/", "status": 302 }
+    { "src": "/", "dest": "https://13.61.24.104/cashapp-invites/", "status": 302 }
   ]
 }
